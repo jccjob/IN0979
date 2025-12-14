@@ -15,4 +15,4 @@ pr_review_comments.xlsx: tabela contendo os cometários das review, classificaç
 
 pr_review_comments_classificado.xlsx: tabela contendo os cometários de revisão e classificados quanto a natureza critica, tipo comentário (bug, design, crítico, estilo, teste etc) e o rank de classificação por criticidade (1, 2 e 3).
 
-fontes: diretório com os códigos fontes utilizados para auxiliar na classificação dos comentários das PRs
+v3-Classificação_review_pr.ipynb: código fonte utilizado para auxiliar na classificação dos comentários das PRs
