@@ -7,7 +7,7 @@ Conteúdo para construção do artigo referente ao Mining Challenge  do https://
 
 dataset_PR_filtrado.xlsx: dataset final com todas as informações utilizadas para a construção do artigo.
 
-jamovi: Diretório contendo os scripts utilizados na ferramente https://cloud.jamovi.org/ para realização dos testes estatísticos
+Arquivos *.omv: arquivos contendo os scripts utilizados na ferramente https://cloud.jamovi.org/ para realização dos testes estatísticos
 
 pr_dominancia.xlsx: tabela intermediária utilizada para classificação das pr_id e o tipo de natureza crítica dominante (mandatório ou neutro)
 
